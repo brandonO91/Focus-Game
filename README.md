@@ -55,5 +55,3 @@ game.show_captured('PlayerA') # Returns 0
 game.reserved_move('PlayerA', (0,0)) # Returns message "No pieces in reserve"
 game.show_reserve('PlayerA') # Returns 0
 ```
-
-The file must be named: **FocusGame.py**
